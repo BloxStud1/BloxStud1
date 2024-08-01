@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BloxStud1
+- 👋 Hi, I’m @Galaxy5115
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning how to code with advanced methods
 - 💞️ I’m looking to collaborate on big, and hard projects
