@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Galaxy5115
+- 👋 Hi, I’m @Tyclypse
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning how to code with advanced methods
 - 💞️ I’m looking to collaborate on big, and hard projects
-- 📫 How to reach me: Contact "galaxy._.real" on Discord.
+- 📫 How to reach me: Contact "tyclypse" on Discord.
 
 <!---
 BloxStud1/BloxStud1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
